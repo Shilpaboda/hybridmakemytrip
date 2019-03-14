@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8779e9a-1e34-4e3a-986d-92cac4e6633f" name="Default" comment="" />
+    <list default="true" id="c8779e9a-1e34-4e3a-986d-92cac4e6633f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +27,11 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+=======
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="true">
+>>>>>>> shilpa
         <entry file="file://$PROJECT_DIR$/src/test/java/com/hybrid/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -35,6 +41,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="samplecode.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/hybrid/util/samplecode.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,6 +52,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> shilpa
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -134,12 +143,25 @@
               <item name="Hybridmakemytrip" type="b2602c69:ProjectViewProjectNode" />
               <item name="hybridmakemytrip" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
             </path>
             <path>
               <item name="Hybridmakemytrip" type="b2602c69:ProjectViewProjectNode" />
               <item name="hybridmakemytrip" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> shilpa
+            </path>
+            <path>
+              <item name="Hybridmakemytrip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hybridmakemytrip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> shilpa
             </path>
             <path>
               <item name="Hybridmakemytrip" type="b2602c69:ProjectViewProjectNode" />
@@ -147,6 +169,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
             </path>
             <path>
               <item name="Hybridmakemytrip" type="b2602c69:ProjectViewProjectNode" />
@@ -154,6 +178,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+>>>>>>> shilpa
               <item name="hybrid" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -566,6 +591,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hybrid/flights/OneWaySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1058#1059#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> shilpa
     <entry file="file://$PROJECT_DIR$/src/test/java/com/hybrid/base/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -992,6 +1031,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/com/hybrid/util/samplecode.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1000,6 +1040,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> shilpa
   </component>
   <component name="masterDetails">
     <states>
